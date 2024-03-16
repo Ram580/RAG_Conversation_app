@@ -6,3 +6,5 @@ PyPDF2
 chromadb
 faiss-cpu
 langchain_google_genai
+sentence-transformers==2.2.2
+pinecone-client==2.2.4
